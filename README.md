@@ -1,4 +1,4 @@
-## A-B-test
+## A/B_test
 ### Analyzing data of a website design changing and making a recommendation for best design based on A/B test.
 ### by Ali Rafieh
 
